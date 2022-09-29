@@ -1,0 +1,103 @@
+*{background-color: none; }
+
+*{ text-decoration: none; }
+table {
+	border-collapse: collapse;
+}
+h1 {
+text-align: left;
+}
+table th {
+	text-align: left;
+	background-color: #3a6070;
+  	color:white;
+	padding: 4px 30px 4px 8px
+	
+}
+table td {
+	border: 1px solid #e3e3e3;
+	padding: 4px 8px;
+	background-color: darkblue;
+}
+table tr: nt-child(odd) td {
+	background-color: gray;
+}
+}
+.tab_button:hover{
+	
+	color: red;
+
+}
+.tab_button:actvive{
+	color:red;
+}
+
+
+.button {
+	background: darkblue;
+	color: white;
+	padding: 8px;
+	padding-left: 13px;
+	padding-right: 13px;
+
+	margin-top: 10px;
+	width: 5%;
+}
+
+.cont{
+	width: 100%;
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+	
+	position: absolute;
+	top: 0px;
+	height: 120px;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+h2{
+	color: 	black;
+	font: bold 40px Arial;
+}
+
+h1 {
+	color: orange;
+	font: bold 50px  impact, Arial black;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.stud
+{
+	text-align: center;
+	font: 40px tahoma;
+	color: blue;
+	padding-bottom: 20px;
+	
+}
+.table
+{
+	width: 100px
+}
+.lect
+{
+	text-align: center;
+	font: 40px tahoma;
+	color: blue;
+	padding-bottom: 20px;
+	
+}
+.welcom{
+	margin-top: 100px;
+	font: white 50px tahoma Arial;
+	text-align: center;
+	text-transform: uppercase;
+	color: red;
+	font: bold;
+	padding-top: 15px;
+	padding-bottom: 30px;
+
+}
